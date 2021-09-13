@@ -1,0 +1,84 @@
+<RCC>
+    <qresource prefix="/graphics">
+        <file>graphics/background5.png</file>
+        <file>graphics/backgroundbreack5.png</file>
+        <file>graphics/backgroundvictory5.png</file>
+        <file>graphics/boydown0.png</file>
+        <file>graphics/boydown1.png</file>
+        <file>graphics/boydown2.png</file>
+        <file>graphics/boydown3.png</file>
+        <file>graphics/boyleft0.png</file>
+        <file>graphics/boyleft1.png</file>
+        <file>graphics/boyleft2.png</file>
+        <file>graphics/boyleft3.png</file>
+        <file>graphics/boyright0.png</file>
+        <file>graphics/boyright1.png</file>
+        <file>graphics/boyright2.png</file>
+        <file>graphics/boyright3.png</file>
+        <file>graphics/boyup0.png</file>
+        <file>graphics/boyup1.png</file>
+        <file>graphics/boyup2.png</file>
+        <file>graphics/boyup3.png</file>
+        <file>graphics/joydown0.png</file>
+        <file>graphics/joydown1.png</file>
+        <file>graphics/joydown2.png</file>
+        <file>graphics/joydown3.png</file>
+        <file>graphics/joyleft0.png</file>
+        <file>graphics/joyleft1.png</file>
+        <file>graphics/joyleft2.png</file>
+        <file>graphics/joyleft3.png</file>
+        <file>graphics/joyright0.png</file>
+        <file>graphics/joyright1.png</file>
+        <file>graphics/joyright2.png</file>
+        <file>graphics/joyright3.png</file>
+        <file>graphics/joyup0.png</file>
+        <file>graphics/joyup1.png</file>
+        <file>graphics/joyup2.png</file>
+        <file>graphics/joyup3.png</file>
+        <file>graphics/medown0.png</file>
+        <file>graphics/medown1.png</file>
+        <file>graphics/medown2.png</file>
+        <file>graphics/medown3.png</file>
+        <file>graphics/meleft0.png</file>
+        <file>graphics/meleft1.png</file>
+        <file>graphics/meleft2.png</file>
+        <file>graphics/meleft3.png</file>
+        <file>graphics/meright0.png</file>
+        <file>graphics/meright1.png</file>
+        <file>graphics/meright2.png</file>
+        <file>graphics/meright3.png</file>
+        <file>graphics/meup0.png</file>
+        <file>graphics/meup1.png</file>
+        <file>graphics/meup2.png</file>
+        <file>graphics/meup3.png</file>
+        <file>graphics/question.png</file>
+        <file>graphics/pause.png</file>
+        <file>graphics/projectile.png</file>
+        <file>graphics/turretdead.png</file>
+        <file>graphics/turretlvl1.png</file>
+        <file>graphics/turretlvl3.png</file>
+        <file>graphics/turretlvl2.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/drinking-coffee-sound-effect (mastered).mp3</file>
+        <file>sounds/lamourtoujours.mp3</file>
+        <file>sounds/large-group-of-women-speaking-ambience (mastered).mp3</file>
+        <file>sounds/the-8-bit-hallelujah-chorus.mp3</file>
+        <file>sounds/the-sound-of-silence-8-bit-tribute-to-disturbed-and-simon-garfunkel-8-bit-universe.mp3</file>
+        <file>sounds/paperplane.mp3</file>
+        <file>sounds/scream.mp3</file>
+        <file>sounds/bad.mp3</file>
+        <file>sounds/good.mp3</file>
+    </qresource>
+    <qresource prefix="/tutorial">
+        <file>tutorial/1.png</file>
+        <file>tutorial/2.png</file>
+        <file>tutorial/3.png</file>
+        <file>tutorial/4.png</file>
+        <file>tutorial/5.png</file>
+        <file>tutorial/6.png</file>
+        <file>tutorial/7.png</file>
+        <file>tutorial/8.png</file>
+        <file>tutorial/9.png</file>
+    </qresource>
+</RCC>
