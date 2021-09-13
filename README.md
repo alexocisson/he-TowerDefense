@@ -9,6 +9,6 @@ Choose a study field and start a session! You will get regular MCQ the will earn
 
 - 3 modes of difficulty with a bonus mode !
 - Choose your study field and get smarter answering MCQ questions !
-- Place allies on empty places to chase your enemies and porevent them to use the place !
+- Place allies on empty places to chase away your enemies and prevent them to use the place !
 - Place and upgrade turrets in the corridor to lauch paper planes on your ennemies !
 - Use your special powers to boost your focus and scare your ennemies !
